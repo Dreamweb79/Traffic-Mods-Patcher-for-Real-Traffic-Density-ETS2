@@ -18,7 +18,7 @@ One or more of the mod files:
 
 Note: for the patcher to work, the mod filenames must be exatly as above, except for the version number.
 
-Download TMP_RTD and extract it in the folder with the traffic mods to patch.\
+Download [TMP_RTD](https://github.com/Dreamweb79/Traffic-Mods-Patcher-for-Real-Traffic-Density-ETS2/releases/download/v1.0.0/TMP_RTD.v1.0.0.zip) and extract it in the folder with the traffic mods to patch.\
 Download [scs_packer](https://modding.scssoft.com/wiki/Documentation/Tools/Game_Archive_Packer) and extract it in the same folder.\
 Launch TMP_RTD.
 
