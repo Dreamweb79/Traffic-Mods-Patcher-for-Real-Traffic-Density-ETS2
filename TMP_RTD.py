@@ -208,7 +208,7 @@ def main():
         else:
             menu(files_found, id_val)
             patch(files_found)
-            input('\nAll files patched! Press a key to exit.')
+            input('\nAll files patched! Press Enter to exit.')
 
 
 if __name__ == "__main__":
