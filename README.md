@@ -18,8 +18,8 @@ One or more of the mod files:
 
 Note: for the patcher to work, the mod filenames must be exatly as above, except for the version number.
 
-Download TMP_RTD and extract TMP_RTD.exe in the folder with the traffic mods to patch.\
-Download [scs_packer](https://modding.scssoft.com/wiki/Documentation/Tools/Game_Archive_Packer) (v1.50 or newer) and extract it in the same folder.\
+Download TMP_RTD and extract it in the folder with the traffic mods to patch.\
+Download [scs_packer](https://modding.scssoft.com/wiki/Documentation/Tools/Game_Archive_Packer) and extract it in the same folder.\
 Launch TMP_RTD.
 
 The original mod files will be renamed as .bak during the patch process. If you want to reverte back simply delete the patched file and remove the .bak extension from the original one.
